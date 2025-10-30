@@ -1,0 +1,42 @@
+{
+  "isolation_forest": {
+    "accuracy": 0.3265993265993266,
+    "precision": 0.3287671232876712,
+    "recall": 0.96,
+    "f1_score": 0.4897959183673469,
+    "roc_auc": 0.33903553299492384,
+    "confusion_matrix": [
+      [
+        1,
+        196
+      ],
+      [
+        4,
+        96
+      ]
+    ],
+    "train_time": 0.252471923828125,
+    "train_samples": 1102,
+    "val_samples": 297
+  },
+  "one_class_svm": {
+    "accuracy": 0.3333333333333333,
+    "precision": 0.3237410071942446,
+    "recall": 0.9,
+    "f1_score": 0.47619047619047616,
+    "roc_auc": 0.35101522842639593,
+    "confusion_matrix": [
+      [
+        9,
+        188
+      ],
+      [
+        10,
+        90
+      ]
+    ],
+    "train_time": 0.25120997428894043,
+    "train_samples": 1102,
+    "val_samples": 297
+  }
+}

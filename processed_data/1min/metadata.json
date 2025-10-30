@@ -1,0 +1,23 @@
+[
+  {
+    "pair_id": 0,
+    "audio_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "sync_offset": 0.0,
+    "num_clips": 119
+  },
+  {
+    "pair_id": 1,
+    "audio_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "sync_offset": 0.0,
+    "num_clips": 119
+  },
+  {
+    "pair_id": 2,
+    "audio_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_file": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "sync_offset": 0.0,
+    "num_clips": 119
+  }
+]

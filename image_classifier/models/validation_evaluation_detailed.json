@@ -1,0 +1,121 @@
+{
+  "confusion_matrix": [
+    [
+      188,
+      9
+    ],
+    [
+      5,
+      95
+    ]
+  ],
+  "metrics": {
+    "accuracy": 0.9528619528619529,
+    "precision": 0.9134615384615384,
+    "recall": 0.95,
+    "specificity": 0.9543147208121827,
+    "f1_score": 0.9313725490196078,
+    "false_positive_rate": 0.04568527918781726,
+    "false_negative_rate": 0.05
+  },
+  "counts": {
+    "true_negatives": 188,
+    "false_positives": 9,
+    "false_negatives": 5,
+    "true_positives": 95,
+    "total_samples": 297,
+    "positive_samples": 100,
+    "negative_samples": 197
+  },
+  "threshold": 0.5,
+  "failure_cases": {
+    "false_positives": [
+      {
+        "file": "vcra_GG_0012.jpg",
+        "probability": 0.7782062888145447,
+        "predicted": "Asian hornet",
+        "actual": "European hornet"
+      },
+      {
+        "file": "vcra_GG_0039.jpg",
+        "probability": 0.8111783862113953,
+        "predicted": "Asian hornet",
+        "actual": "European hornet"
+      },
+      {
+        "file": "vcra_GG_0062.jpg",
+        "probability": 0.9489813446998596,
+        "predicted": "Asian hornet",
+        "actual": "European hornet"
+      },
+      {
+        "file": "vcra_GG_0093.jpg",
+        "probability": 0.7150821685791016,
+        "predicted": "Asian hornet",
+        "actual": "European hornet"
+      },
+      {
+        "file": "vcra_GG_0095.jpg",
+        "probability": 0.914290726184845,
+        "predicted": "Asian hornet",
+        "actual": "European hornet"
+      },
+      {
+        "file": "vvul_GG_0018.jpg",
+        "probability": 0.6346767544746399,
+        "predicted": "Asian hornet",
+        "actual": "Wasp"
+      },
+      {
+        "file": "vvul_GG_0066.jpg",
+        "probability": 0.8873435854911804,
+        "predicted": "Asian hornet",
+        "actual": "Wasp"
+      },
+      {
+        "file": "vvul_GG_0076.jpg",
+        "probability": 0.6852745413780212,
+        "predicted": "Asian hornet",
+        "actual": "Wasp"
+      },
+      {
+        "file": "vvul_GG_0105.jpg",
+        "probability": 0.9795118570327759,
+        "predicted": "Asian hornet",
+        "actual": "Wasp"
+      }
+    ],
+    "false_negatives": [
+      {
+        "file": "vvel_GG_0018.jpg",
+        "probability": 0.298451691865921,
+        "predicted": "NOT Asian hornet",
+        "actual": "Asian hornet"
+      },
+      {
+        "file": "vvel_GG_0026.jpg",
+        "probability": 0.05736592411994934,
+        "predicted": "NOT Asian hornet",
+        "actual": "Asian hornet"
+      },
+      {
+        "file": "vvel_GG_0028.jpg",
+        "probability": 0.3316613733768463,
+        "predicted": "NOT Asian hornet",
+        "actual": "Asian hornet"
+      },
+      {
+        "file": "vvel_GG_0041.jpg",
+        "probability": 0.26929977536201477,
+        "predicted": "NOT Asian hornet",
+        "actual": "Asian hornet"
+      },
+      {
+        "file": "vvel_GG_0055.jpg",
+        "probability": 0.237990140914917,
+        "predicted": "NOT Asian hornet",
+        "actual": "Asian hornet"
+      }
+    ]
+  }
+}

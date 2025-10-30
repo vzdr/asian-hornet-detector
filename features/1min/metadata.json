@@ -1,0 +1,2501 @@
+[
+  {
+    "clip_file": "pair_0\\clip_0000.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 0.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0001.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 0.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0002.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 1.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0003.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 1.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0004.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 2.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0005.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 2.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0006.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 3.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0007.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 3.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0008.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 4.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0009.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 4.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0010.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 5.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0011.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 5.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0012.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 6.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0013.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 6.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0014.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 7.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0015.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 7.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0016.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 8.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0017.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 8.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0018.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 9.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0019.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 9.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0020.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 10.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0021.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 10.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0022.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 11.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0023.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 11.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0024.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 12.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0025.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 12.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0026.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 13.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0027.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 13.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0028.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 14.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0029.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 14.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0030.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 15.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0031.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 15.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0032.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 16.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0033.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 16.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0034.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 17.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0035.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 17.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0036.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 18.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0037.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 18.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0038.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 19.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0039.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 19.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0040.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 20.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0041.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 20.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0042.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 21.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0043.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 21.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0044.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 22.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0045.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 22.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0046.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 23.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0047.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 23.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0048.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 24.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0049.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 24.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0050.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 25.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0051.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 25.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0052.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 26.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0053.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 26.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0054.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 27.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0055.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 27.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0056.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 28.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0057.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 28.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0058.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 29.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0059.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 29.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0060.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 30.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0061.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 30.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0062.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 31.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0063.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 31.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0064.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 32.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0065.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 32.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0066.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 33.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0067.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 33.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0068.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 34.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0069.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 34.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0070.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 35.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0071.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 35.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0072.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 36.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0073.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 36.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0074.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 37.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0075.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 37.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0076.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 38.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0077.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 38.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0078.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 39.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0079.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 39.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0080.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 40.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0081.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 40.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0082.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 41.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0083.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 41.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0084.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 42.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0085.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 42.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0086.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 43.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0087.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 43.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0088.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 44.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0089.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 44.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0090.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 45.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0091.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 45.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0092.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 46.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0093.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 46.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0094.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 47.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0095.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 47.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0096.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 48.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0097.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 48.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0098.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 49.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0099.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 49.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0100.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 50.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0101.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 50.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0102.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 51.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0103.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 51.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0104.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 52.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0105.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 52.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0106.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 53.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0107.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 53.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0108.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 54.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0109.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 54.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0110.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 55.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0111.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 55.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0112.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 56.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0113.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 56.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0114.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 57.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0115.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 57.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0116.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 58.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0117.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 58.5,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_0\\clip_0118.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi11_7_250603_A_rPi11_video.mp4",
+    "timestamp": 59.0,
+    "pair_id": "pair_0"
+  },
+  {
+    "clip_file": "pair_1\\clip_0000.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 0.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0001.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 0.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0002.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 1.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0003.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 1.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0004.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 2.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0005.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 2.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0006.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 3.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0007.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 3.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0008.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 4.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0009.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 4.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0010.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 5.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0011.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 5.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0012.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 6.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0013.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 6.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0014.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 7.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0015.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 7.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0016.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 8.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0017.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 8.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0018.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 9.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0019.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 9.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0020.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 10.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0021.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 10.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0022.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 11.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0023.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 11.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0024.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 12.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0025.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 12.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0026.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 13.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0027.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 13.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0028.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 14.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0029.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 14.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0030.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 15.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0031.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 15.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0032.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 16.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0033.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 16.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0034.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 17.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0035.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 17.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0036.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 18.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0037.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 18.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0038.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 19.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0039.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 19.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0040.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 20.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0041.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 20.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0042.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 21.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0043.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 21.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0044.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 22.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0045.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 22.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0046.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 23.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0047.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 23.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0048.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 24.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0049.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 24.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0050.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 25.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0051.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 25.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0052.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 26.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0053.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 26.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0054.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 27.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0055.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 27.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0056.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 28.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0057.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 28.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0058.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 29.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0059.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 29.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0060.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 30.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0061.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 30.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0062.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 31.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0063.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 31.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0064.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 32.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0065.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 32.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0066.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 33.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0067.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 33.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0068.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 34.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0069.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 34.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0070.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 35.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0071.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 35.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0072.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 36.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0073.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 36.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0074.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 37.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0075.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 37.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0076.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 38.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0077.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 38.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0078.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 39.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0079.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 39.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0080.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 40.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0081.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 40.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0082.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 41.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0083.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 41.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0084.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 42.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0085.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 42.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0086.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 43.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0087.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 43.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0088.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 44.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0089.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 44.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0090.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 45.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0091.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 45.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0092.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 46.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0093.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 46.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0094.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 47.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0095.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 47.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0096.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 48.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0097.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 48.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0098.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 49.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0099.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 49.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0100.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 50.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0101.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 50.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0102.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 51.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0103.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 51.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0104.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 52.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0105.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 52.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0106.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 53.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0107.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 53.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0108.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 54.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0109.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 54.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0110.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 55.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0111.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 55.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0112.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 56.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0113.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 56.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0114.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 57.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0115.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 57.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0116.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 58.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0117.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 58.5,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_1\\clip_0118.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi16_4_250603_A_rPi16_video.mp4",
+    "timestamp": 59.0,
+    "pair_id": "pair_1"
+  },
+  {
+    "clip_file": "pair_2\\clip_0000.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 0.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0001.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 0.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0002.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 1.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0003.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 1.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0004.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 2.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0005.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 2.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0006.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 3.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0007.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 3.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0008.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 4.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0009.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 4.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0010.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 5.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0011.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 5.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0012.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 6.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0013.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 6.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0014.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 7.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0015.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 7.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0016.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 8.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0017.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 8.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0018.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 9.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0019.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 9.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0020.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 10.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0021.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 10.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0022.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 11.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0023.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 11.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0024.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 12.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0025.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 12.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0026.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 13.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0027.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 13.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0028.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 14.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0029.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 14.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0030.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 15.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0031.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 15.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0032.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 16.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0033.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 16.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0034.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 17.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0035.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 17.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0036.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 18.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0037.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 18.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0038.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 19.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0039.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 19.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0040.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 20.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0041.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 20.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0042.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 21.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0043.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 21.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0044.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 22.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0045.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 22.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0046.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 23.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0047.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 23.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0048.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 24.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0049.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 24.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0050.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 25.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0051.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 25.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0052.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 26.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0053.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 26.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0054.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 27.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0055.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 27.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0056.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 28.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0057.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 28.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0058.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 29.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0059.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 29.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0060.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 30.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0061.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 30.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0062.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 31.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0063.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 31.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0064.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 32.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0065.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 32.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0066.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 33.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0067.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 33.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0068.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 34.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0069.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 34.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0070.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 35.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0071.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 35.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0072.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 36.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0073.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 36.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0074.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 37.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0075.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 37.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0076.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 38.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0077.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 38.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0078.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 39.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0079.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 39.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0080.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 40.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0081.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 40.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0082.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 41.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0083.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 41.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0084.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 42.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0085.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 42.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0086.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 43.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0087.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 43.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0088.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 44.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0089.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 44.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0090.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 45.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0091.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 45.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0092.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 46.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0093.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 46.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0094.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 47.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0095.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 47.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0096.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 48.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0097.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 48.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0098.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 49.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0099.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 49.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0100.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 50.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0101.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 50.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0102.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 51.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0103.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 51.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0104.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 52.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0105.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 52.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0106.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 53.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0107.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 53.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0108.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 54.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0109.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 54.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0110.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 55.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0111.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 55.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0112.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 56.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0113.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 56.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0114.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 57.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0115.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 57.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0116.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 58.0,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0117.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 58.5,
+    "pair_id": "pair_2"
+  },
+  {
+    "clip_file": "pair_2\\clip_0118.npz",
+    "audio_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_audio.flac",
+    "video_path": "C:\\Users\\Zdravkovic\\Downloads\\1-min-no-time-clapper-30fps\\1-min-no-time-clapper-30fps\\250603_rPi6_4_250603_A_rPi6_video.mp4",
+    "timestamp": 59.0,
+    "pair_id": "pair_2"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "pair_id": 0,
+    "audio_file": "C:\\Users\\Zdravkovic\\Downloads\\5-min-time-clapper-45fps\\5-min-time-clapper-45fps\\240702_rPi1_1_240702_CTL_rPi1_audio.flac",
+    "video_file": "C:\\Users\\Zdravkovic\\Downloads\\5-min-time-clapper-45fps\\5-min-time-clapper-45fps\\240702_rPi1_1_240702_CTL_rPi1_video.mp4",
+    "sync_offset": 0.0,
+    "num_clips": 599
+  },
+  {
+    "pair_id": 1,
+    "audio_file": "C:\\Users\\Zdravkovic\\Downloads\\5-min-time-clapper-45fps\\5-min-time-clapper-45fps\\240719_rPi6_23_240718_TMX10_rPi6_audio.flac",
+    "video_file": "C:\\Users\\Zdravkovic\\Downloads\\5-min-time-clapper-45fps\\5-min-time-clapper-45fps\\240719_rPi6_23_240718_TMX10_rPi6_video.mp4",
+    "sync_offset": 0.0,
+    "num_clips": 599
+  }
+]
