@@ -1,0 +1,1 @@
+# delete unnecessary scripts when you have time

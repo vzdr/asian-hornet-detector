@@ -1,0 +1,63 @@
+{
+  "test_set": "large",
+  "confusion_matrix": [
+    [
+      17566,
+      131
+    ],
+    [
+      252,
+      24748
+    ]
+  ],
+  "metrics": {
+    "accuracy": 0.9910298147410825,
+    "precision": 0.9947345150528558,
+    "recall": 0.98992,
+    "specificity": 0.9925976154150421,
+    "f1_score": 0.9923214178311514,
+    "false_positive_rate": 0.007402384584957902,
+    "false_negative_rate": 0.01008,
+    "bee_fp_rate": 0.0006285714285714285,
+    "european_fp_rate": 0.6,
+    "wasp_fp_rate": 0.6185567010309279
+  },
+  "counts": {
+    "true_negatives": 17566,
+    "false_positives": 131,
+    "false_negatives": 252,
+    "true_positives": 24748,
+    "total_samples": 42697
+  },
+  "performance": {
+    "eval_time_seconds": 2624.618978738785,
+    "images_per_second": 16.267885108610052
+  },
+  "class_wise_results": {
+    "asian_hornets": {
+      "accuracy": 0.98992,
+      "total": 25000,
+      "correct": 24748,
+      "mean_prob": 0.9875842114877283
+    },
+    "bees": {
+      "accuracy": 0.9993714285714286,
+      "total": 17500,
+      "correct": 17489,
+      "mean_prob": 0.0012600216375139581
+    },
+    "european_hornets": {
+      "accuracy": 0.4,
+      "total": 100,
+      "correct": 40,
+      "mean_prob": 0.6088407655495883
+    },
+    "wasps": {
+      "accuracy": 0.38144329896907214,
+      "total": 97,
+      "correct": 37,
+      "mean_prob": 0.6007126359334731
+    }
+  },
+  "threshold": 0.5
+}
