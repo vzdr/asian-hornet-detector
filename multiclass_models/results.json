@@ -1,0 +1,75 @@
+{
+  "best_val_acc": 85.69608539970764,
+  "training_time_minutes": 499.8050411939621,
+  "classification_report": {
+    "Asian Hornet": {
+      "precision": 0.7228103946102021,
+      "recall": 0.7338762214983713,
+      "f1-score": 0.7283012768708582,
+      "support": 3070.0
+    },
+    "Bee": {
+      "precision": 0.9895757575757576,
+      "recall": 0.976555023923445,
+      "f1-score": 0.9830222757375076,
+      "support": 4180.0
+    },
+    "European Hornet": {
+      "precision": 0.82807101155725,
+      "recall": 0.9420663106243392,
+      "f1-score": 0.8813980621924619,
+      "support": 36887.0
+    },
+    "Wasp": {
+      "precision": 0.8996845425867508,
+      "recall": 0.7497863950049294,
+      "f1-score": 0.8179243592041584,
+      "support": 30430.0
+    },
+    "accuracy": 0.8569608539970764,
+    "macro avg": {
+      "precision": 0.8600354265824902,
+      "recall": 0.8505709877627712,
+      "f1-score": 0.8526614935012465,
+      "support": 74567.0
+    },
+    "weighted avg": {
+      "precision": 0.8620155110484141,
+      "recall": 0.8569608539970764,
+      "f1-score": 0.8548887122085131,
+      "support": 74567.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      2253,
+      21,
+      195,
+      601
+    ],
+    [
+      30,
+      4082,
+      6,
+      62
+    ],
+    [
+      242,
+      14,
+      34750,
+      1881
+    ],
+    [
+      592,
+      8,
+      7014,
+      22816
+    ]
+  ],
+  "hyperparameters": {
+    "batch_size": 64,
+    "learning_rate": 0.0001,
+    "epochs": 15,
+    "samples_per_class": 30000
+  }
+}

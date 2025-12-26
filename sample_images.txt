@@ -1,0 +1,8 @@
+asian_hornet:
+bee:
+european_hornet:
+  D:\Ultimate Dataset\european_hornets_gbif\5291530745_eea6dc10961b.jpg
+  D:\Ultimate Dataset\european_hornets_gbif\5759406448_e4b7c447b053.jpg
+wasp:
+  D:\Ultimate Dataset\wasps_gbif\5134132162_96909cf8d21c.jpeg
+  D:\Ultimate Dataset\wasps_gbif\5104704941_401ea3bac993.jpeg
